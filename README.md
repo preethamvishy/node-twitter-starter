@@ -6,6 +6,6 @@ Current operations are fetching tweets of any user, fetching a user's likes, fet
 # Getting Started
 1. Obtain your twitter consumer key and onsumer secret from dev.twitter.com/apps and add them in config.js.
 2. npm install
-3 .node server.js
+3. node server.js
 
 For active development, I suggest using nodemon.
